@@ -7,7 +7,9 @@
     - Just the IDE: https://www.jetbrains.com/idea/download/#section=windows 
     - JetBrains Toolbox: https://www.jetbrains.com/toolbox-app/ 
 - For Java, you will need to create an Oracle account to access the download.
-    - https://www.oracle.com/java/technologies/javase-jdk11-downloads.html 
+    - https://www.oracle.com/java/technologies/javase-jdk11-downloads.html
+- Code With Me plugin: Please install this plugin for IntelliJ. Go to File > Settings > Plugins. Make sure you have Marketplace selected, and search for Code With Me and install the plugin.  
+  
     
 **2.** Detailed instructions are located in the tutorial videos and in the initial (this) assignment.<br>
 **3.** Accept the assignment invitation on D2L.<br>
