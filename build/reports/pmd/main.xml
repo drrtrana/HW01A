@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pmd xmlns="http://pmd.sourceforge.net/report/2.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://pmd.sourceforge.net/report/2.0.0 http://pmd.sourceforge.net/report_2_0_0.xsd" version="6.26.0" timestamp="2020-12-11T18:44:05.433">
+<file name="C:\Users\dhuyn\Desktop\School\Thesis\cs207-hw0\src\main\java\GitHubReview.java">
+<violation beginline="3" endline="5" begincolumn="18" endcolumn="9" rule="EmptyIfStmt" ruleset="Error Prone" class="GitHubReview" method="isOdd" externalInfoUrl="https://pmd.github.io/pmd-6.26.0/pmd_rules_java_errorprone.html#emptyifstmt" priority="3">
+Avoid empty if statements
+</violation>
+<violation beginline="3" endline="5" begincolumn="18" endcolumn="9" rule="EmptyIfStmt" ruleset="Error Prone" class="GitHubReview" method="isOdd" externalInfoUrl="https://pmd.github.io/pmd-6.26.0/pmd_rules_java_errorprone.html#emptyifstmt" priority="3">
+Avoid empty if statements
+</violation>
+<violation beginline="3" endline="3" begincolumn="12" endcolumn="15" rule="UnconditionalIfStatement" ruleset="Error Prone" class="GitHubReview" method="isOdd" externalInfoUrl="https://pmd.github.io/pmd-6.26.0/pmd_rules_java_errorprone.html#unconditionalifstatement" priority="3">
+Do not use if statements that are always true or always false
+</violation>
+<violation beginline="3" endline="3" begincolumn="12" endcolumn="15" rule="UnconditionalIfStatement" ruleset="Error Prone" class="GitHubReview" method="isOdd" externalInfoUrl="https://pmd.github.io/pmd-6.26.0/pmd_rules_java_errorprone.html#unconditionalifstatement" priority="3">
+Do not use if statements that are always true or always false
+</violation>
+</file>
+</pmd>
