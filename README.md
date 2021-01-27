@@ -1,4 +1,4 @@
-###### CS-207-3: Programming II <br> Spring 2021 <br> Northeastern Illinois University <br> Homework #1A <br> Suggested Due Date: 01/20/21 at 9:00 p.m. (CT) <br> Due Date: 02/08/21 at 9:00 p.m. (CT) <br> GitHub Review
+###### CS-207-3: Programming II <br> Spring 2021 <br> Northeastern Illinois University <br> Homework #1A <br> Due Date: 01/20/21 at 9:00 p.m. (CT) <br> GitHub Review
 
 **Getting Started**
 
